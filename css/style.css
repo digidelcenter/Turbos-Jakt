@@ -1,0 +1,30 @@
+.btn-primary{
+	background-color: rgb(0, 0, 0);
+	position:relative; top: 0px; left: 0px; margin-left:0px; margin-right:0px;
+
+}
+
+#services{
+	background-color: rgb(0, 0, 0);
+	color: rgb(239, 131, 37);
+
+	position:relative; top: 0px; left: 0px; margin-left:0px; margin-right:0px;
+}
+
+p{
+	font-family: 'Arial', sans-serif;
+	font-size: 25px;
+
+	position:relative; top: 0px; left: 0px; margin-left:0px; margin-right:0px;
+
+}
+
+#services img{
+	max-width: 100%;
+}
+
+header.masthead {
+    background-image: url("../img/fiskmås.webp");
+}
+
+
